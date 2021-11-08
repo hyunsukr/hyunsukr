@@ -1,3 +1,6 @@
+![alt text](/assets/banner.png)
+
+
 ## Hyun Suk (Max) Ryoo - @hyunsukr
 
 Hi there 👋 I'm Max Ryoo! 
