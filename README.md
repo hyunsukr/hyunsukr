@@ -81,5 +81,8 @@ Also feel free to check out my personal site for more information about me! [Per
 ---
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunsukr&layout=compact&theme=dark&langs_count=10)](https://github.com/hyunsukr/github-readme-stats)
+![Max's GitHub stats](https://github-readme-stats-hy9whvnro-hyunsukr.vercel.app/api?username=hyunsukr&theme=dark&show_icons=true&count_private=true)
+
+
+[![Top Langs](https://github-readme-stats-hy9whvnro-hyunsukr.vercel.app/api/top-langs/?username=hyunsukr&layout=compact&theme=dark&langs_count=10)](https://github.com/hyunsukr/github-readme-stats)
 
