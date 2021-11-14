@@ -19,7 +19,10 @@ Class Analytics is a Learning Analytics Platform that has a built in Learning Ma
 [Class Analytics Live Site](https://class-analytics.com/home)
 
 
-Also feel free to check out my personal site for more information about me! [Personal Website](https://hyunsuk-ryoo.com/)
+## Personal Web Site / Blog
+Feel free to check out my personal site for more information about me. [Personal Website](https://hyunsuk-ryoo.com/)
+
+In the personal site you can also find a blog section, which has more information about the projects / research I am partaking in. [Personal Blog](https://hyunsuk-ryoo.com/blog/main)
 
 
 
