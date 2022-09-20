@@ -7,16 +7,18 @@ Hi there 👋 I'm Max Ryoo!
 
 I graduated 🎓 from the University of Virginia with a Bachelors in Computer Science and Statistics. Currently I'm also purising 🧑🏼‍🎓 a Masters of Data Science at the University of Virginia as well.  🔶 WaHooWa 🔷!
 
-Currently I'm a Software Engineer at Capital One Bank and primarily do backend / full stack development. 
+Currently I'm a Software Developer at Microsoft. 
 
 I also do many side projects on the side for fun and parttake in various research activities that result in software development. Check out my latest major live project, CLASS Analytics!
 
 
 ## Class Analytics
 
-Class Analytics is a Learning Analytics Platform that has a built in Learning Management System and utilizes Automatic Item Generation for instructors to create flexible and unqiue questions for student's learning progression. 
+Class Analytics is a Learning Analytics Platform that has a built in Learning Management System and utilizes Automatic Item Generation for instructors to create flexible and unqiue questions for student's learning progression. The site also provides learning analytics metrics to help professors correctly analyze their materials and student's progression in their courses.
 
 [Class Analytics Live Site](https://class-analytics.com/home)
+
+CLASS Analytics currently is supporting three univerisities and maintains a development server. 
 
 
 ## Personal Web Site / Blog
