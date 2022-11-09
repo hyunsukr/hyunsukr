@@ -86,8 +86,8 @@ In the personal site you can also find a blog section, which has more informatio
 ---
 <br>
 
-![Max's GitHub stats](https://github-readme-stats-hy9whvnro-hyunsukr.vercel.app/api?username=hyunsukr&theme=dark&show_icons=true&count_private=true)
+![Max's GitHub stats](https://github-readme-stats-tv2t-1yxhk9hj2-hyunsukr.vercel.app/api?username=hyunsukr&theme=dark&show_icons=true&count_private=true)
 
 
-[![Top Langs](https://github-readme-stats-hy9whvnro-hyunsukr.vercel.app/api/top-langs/?username=hyunsukr&layout=compact&theme=dark&langs_count=10)](https://github.com/hyunsukr/github-readme-stats)
+[![Top Langs](https://github-readme-stats-tv2t-1yxhk9hj2-hyunsukr.vercel.app/api/top-langs/?username=hyunsukr&layout=compact&theme=dark&langs_count=10)](https://github.com/hyunsukr/github-readme-stats)
 
