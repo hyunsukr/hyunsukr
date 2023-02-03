@@ -18,7 +18,7 @@ Class Analytics is a Learning Analytics Platform that has a built in Learning Ma
 
 [Class Analytics Live Site](https://class-analytics.com/home)
 
-CLASS Analytics currently is supporting three univerisities and maintains a development server. 
+CLASS Analytics currently is supporting three univerisities, one highschool, and maintains a development server. 
 
 
 ## Personal Web Site / Blog
